@@ -1,0 +1,12 @@
+C:\Users\everl\Music\Proyecto Web\EventsManager\EventsManager\bin\Debug\netcoreapp2.0\EventsManager.deps.json
+C:\Users\everl\Music\Proyecto Web\EventsManager\EventsManager\bin\Debug\netcoreapp2.0\EventsManager.runtimeconfig.json
+C:\Users\everl\Music\Proyecto Web\EventsManager\EventsManager\bin\Debug\netcoreapp2.0\EventsManager.runtimeconfig.dev.json
+C:\Users\everl\Music\Proyecto Web\EventsManager\EventsManager\bin\Debug\netcoreapp2.0\EventsManager.dll
+C:\Users\everl\Music\Proyecto Web\EventsManager\EventsManager\bin\Debug\netcoreapp2.0\EventsManager.pdb
+C:\Users\everl\Music\Proyecto Web\EventsManager\EventsManager\obj\Debug\netcoreapp2.0\EventsManager.csproj.CoreCompileInputs.cache
+C:\Users\everl\Music\Proyecto Web\EventsManager\EventsManager\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\everl\Music\Proyecto Web\EventsManager\EventsManager\obj\Debug\netcoreapp2.0\EventsManager.AssemblyInfoInputs.cache
+C:\Users\everl\Music\Proyecto Web\EventsManager\EventsManager\obj\Debug\netcoreapp2.0\EventsManager.AssemblyInfo.cs
+C:\Users\everl\Music\Proyecto Web\EventsManager\EventsManager\obj\Debug\netcoreapp2.0\EventsManager.dll
+C:\Users\everl\Music\Proyecto Web\EventsManager\EventsManager\obj\Debug\netcoreapp2.0\EventsManager.pdb
+C:\Users\everl\Music\Proyecto Web\EventsManager\EventsManager\obj\Debug\netcoreapp2.0\EventsManager.csprojAssemblyReference.cache
